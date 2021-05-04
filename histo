@@ -1,0 +1,100 @@
+    1  pwd
+    2  touch archivo.txt
+    3  ls
+    4  ls -l
+    5  ls -la
+    6  ls -lh
+    7  ls -lha
+    8  mkdir test
+    9  rm -rm test
+   10  rm -rf test
+   11  vim archivo.txt 
+   12  vim archivo.txt 
+   13  vim archivo.txt 
+   14  cd ..
+   15  git config
+   16  git config --global user.name hegel
+   17  git config --global user.email hegeliano.2211@gmail.com
+   18  git config --global color.ui true
+   19  git config -l 
+   20  clear
+   21  git --version
+   22  git init DATAMAN
+   23  LS
+   24  ls
+   25  cd DATAMAN/
+   26  ls
+   27  ls -a
+   28  git status
+   29  touch DML_TABLAS1.sql
+   30  git status
+   31  git add DML_TABLAS1.sql
+   32  git status
+   33  git commit -m "primera version"
+   34  mkdir DM_VENTAS
+   35  LS
+   36  ls
+   37  cd DM_VENTAS/
+   38  ls
+   39  git status
+   40  ls
+   41  cd ..
+   42  ls
+   43  cd DATAMAN/
+   44  ls
+   45  git status
+   46  cd ..
+   47  git clone https://github.com/hegeliano/REPOVENTAS
+   48  ls
+   49  cd DATAMAN/
+   50  ls
+   51  ls
+   52  pwd
+   53  touch archivo1.txt
+   54  ls -la
+   55  pwd
+   56  mkdir test
+   57  ls
+   58  ls -la
+   59  rm -rf  test
+   60  ls -la
+   61  vim archivo1.txt 
+   62  vim archivo1.txt 
+   63  ls /
+   64  pwd
+   65  ping www.google.com
+   66  touch test.txt
+   67  ls -l
+   68  mkdir mama
+   69  git config -l
+   70  git config -l
+   71  git config -l
+   72  git --version
+   73  pwd
+   74  cd ..
+   75  ls
+   76  ls
+   77  ls
+   78  cd DM_VENTAS/
+   79  ls -a
+   80  ls
+   81  cd ..
+   82  ls
+   83  cd REPOVENTAS/
+   84  ls -lha
+   85  cd ..
+   86  cd DATAMAN/
+   87  ls -ls
+   88  ls -a
+   89  ls -lha
+   90  ls
+   91  mv DML_TABLAS2.sql.txt DML_TABLAS2.sql
+   92  git status
+   93  git add .
+   94  git status
+   95  git commit -m "primera version"
+   96  history 
+   97  ls
+   98  touch histo
+   99  ls
+  100  history > histo 
